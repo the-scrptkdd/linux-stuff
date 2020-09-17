@@ -1,0 +1,3 @@
+alias untar='tar -zxvf'
+alias wget='wget -c '
+alias up='python -m SimpleHTTPServer 8000'
